@@ -28,6 +28,7 @@ if (operatorLower === "suma"){
     document.write(alert("Only addition, subtraction, multiplication, and division operations are performed."));
 };
 
+
 // exercise 3
 const firstNumber = Number(prompt("enter your first number"));
 const secondNumber = Number(prompt("enter your second number"));
